@@ -1,5 +1,20 @@
 # Changelog
 
+## v2.2.0
+
+
+### 🚀 Enhancements
+
+- **home:** Add description (752109e)
+
+### 🩹 Fixes
+
+- **home:** Home bug (9dc5e79)
+
+### ❤️ Contributors
+
+- LI-YONG-QI <a2369028@gmail.com>
+
 ## v2.1.0
 
 
